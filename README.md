@@ -2,7 +2,7 @@
   Greetings Traveler, my name is Moritz 🏄🏽‍♂️
 </h1>
 <p align='center'>
-   <a href="www.linkedin.com/in/moritz-schweppenhaeuser"/>
+   <a href="www.linkedin.com/in/moritz-schweppenhaeuser">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]" />
   </a>
 </p>
