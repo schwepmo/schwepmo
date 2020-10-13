@@ -1,6 +1,6 @@
-<h3 align='center'>
+<h1 align='center'>
   Greetings Traveler, my name is Moritz 🏄🏽‍♂️
-</h3>
+</h1>
 <p align='center'>
    <a href="https://www.linkedin.com/in/moritz-schweppenhaeuser">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]" />
