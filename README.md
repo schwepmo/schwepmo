@@ -3,8 +3,8 @@
 </h1>
 
 * 📕 never stop learning
-* 🧹 Clean code and open-source fanatic
-* 💻 Scientist at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
+* 🧹 clean code and open-source fanatic
+* 💻 scientist at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
 
 ____
 <p align='center'>
