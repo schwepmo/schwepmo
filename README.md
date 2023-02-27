@@ -4,8 +4,7 @@
 
 * 📕 never stop learning
 * 🧹 Clean code and open-source fanatic
-* 👨‍🎓 I'm currently doing my MSc in Computer Science at the TU Berlin
-* 💻 Working Student at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
+* 💻 Scientist at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
 
 ____
 <p align='center'>
