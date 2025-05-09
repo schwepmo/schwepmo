@@ -4,7 +4,7 @@
 
 * 📕 never stop learning
 * 🧹 clean code and open-source fanatic
-* 💻 scientist at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
+* 💻 researcher at Fraunhofer FOKUS, improving [Eclipse MOSAIC](https://github.com/eclipse/mosaic)
 
 ____
 <p align='center'>
